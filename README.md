@@ -18,16 +18,14 @@ Every year, millions of scientific posters are presented at conferences. They ar
 
 | Type       | Date & Time | Authors                    | Session / Location                  | Details |
 | ---------- | ----------- | --------------------------- | ------------------------------------ | ------- |
-| Short talk | TBD (BOSC, July 14-15, 2026) | Bhavesh Patel (presenter) et al. | TBD | [BOSC 2026 schedule](https://www.open-bio.org/events/bosc-2026/) / [ISMB 2026 website](https://www.iscb.org/ismb2026/home) |
-| Poster     | TBD (BOSC, July 14-15, 2026) | Bhavesh Patel (presenter) et al. | TBD | [BOSC 2026 schedule](https://www.open-bio.org/events/bosc-2026/) / [ISMB 2026 website](https://www.iscb.org/ismb2026/home) |
-
-*Specific session times will be added once the conference schedule is released.*
+| Short talk | July 15, 2026, 2:40-2:45 pm | Bhavesh Patel (presenter) et al. | Session 5a: FAIR Data & Governance  | [BOSC 2026 schedule](https://www.open-bio.org/events/bosc-2026/) / [ISMB 2026 website](https://www.iscb.org/ismb2026/home) |
+| Poster     | July 16, 2026, at 10:00-11:00 am and 4:00-4:40 pm | Bhavesh Patel (presenter) et al. | Poster Session D, Columbia Ballroom | [BOSC 2026 schedule](https://www.open-bio.org/events/bosc-2026/) / [ISMB 2026 website](https://www.iscb.org/ismb2026/home) |
 
 ## Meeting material
 
 - `ISMB-BOSC2026_Patel_talk.pdf`: slides of our talk. *(to be added closer to the event)*
 - `ISMB-BOSC2026_Patel_poster.pdf`: conference poster. *(to be added closer to the event)*
-- `BOSC-2026-long-abstract-Posters-science.pdf`: Long abstract submitted for BOSC 2026. *(to be added)*
+- `BOSC-2026-long-abstract-Posters-science.pdf`: Long abstract submitted for BOSC 2026.
 
 ## Resources
 
