@@ -23,8 +23,8 @@ Every year, millions of scientific posters are presented at conferences. They ar
 
 ## Meeting material
 
-- `ISMB2026838PatelTalk.pdf`: slides of our talk. *(to be added closer to the event)*
-- `ISMB20262153PatelPoster.pdf`: conference poster. *(to be added closer to the event)*
+- `ISMB2026838PatelTalk.pdf`: Slides of our talk.
+- `ISMB20262153PatelPoster.pdf`: Conference poster.
 - `BOSC-2026-long-abstract-Posters-science.pdf`: Long abstract submitted for BOSC 2026.
 
 ## Resources
